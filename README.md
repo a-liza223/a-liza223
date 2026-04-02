@@ -8,11 +8,7 @@
 <div align="center">
   <p style="font-size: 24px; color: #FF6BFF; font-weight: bold;">🐱 Мой виртуальный котик-помощник</p>
   <pre style="background: #0D1117; color: #FF6BFF; padding: 15px; border-radius: 8px; font-family: 'Courier New', monospace; text-align: center; display: inline-block;">
-    /\_/\  
-  =( •_• )=  
-    ( >_< )  
-   /     \  
-  (_______)
+ूाीू
   </pre>
 </div>
 
